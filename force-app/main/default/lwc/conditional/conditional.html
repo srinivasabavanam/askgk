@@ -1,0 +1,13 @@
+<template>
+<lightning-card>
+    
+        <!--conitionally render the button-->
+    <template if:true={showButton}>
+        <lightning-button label="ClickMe" onclick={handleClick} variant="brand"></lightning-button>
+    </template>
+    
+    <div class="container">
+        <p>This a css para</p>
+    </div>
+</lightning-card>
+</template>

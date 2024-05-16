@@ -1,0 +1,11 @@
+.container{
+    background-color: chocolate;
+    padding: 20px;
+    border:1px solid mediumseagreen;
+    border-radius: 5px;
+}
+p{
+    color:darkgoldenrod;
+    font-size: 20px;
+    margin-bottom: 0px;
+}

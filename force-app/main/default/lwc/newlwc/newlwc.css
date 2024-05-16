@@ -1,0 +1,11 @@
+.container{
+    background-color: aquamarine;
+    padding: 20px;
+    border: 1px solid #317ebd;
+    border-radius: 5px;
+}
+p{
+  color:blueviolet;
+  font-size: 20px;
+  margin-bottom: 0%;  
+}

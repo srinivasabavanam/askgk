@@ -1,0 +1,11 @@
+.container{
+    background: color #f0f0f0;
+    padding: 20px;
+    border:1px solid #8fb141;
+    border-radius: 5px;
+}
+p{
+    color:#14ac35;
+    font-size: 16px;
+    margin-bottom:0;
+}
