@@ -7,5 +7,6 @@
 p{
   color:blueviolet;
   font-size: 20px;
-  margin-bottom: 0%;  
+  margin-bottom: 0%;   
+  border-radius:20px;
 }
